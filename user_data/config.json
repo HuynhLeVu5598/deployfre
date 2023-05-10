@@ -70,6 +70,7 @@
         "password": "1"
     },
     "bot_name": "freqtrade",
+    "strategy_path": "user_data/strategies",
     "initial_state": "running",
     "force_entry_enable": false,
     "internals": {
